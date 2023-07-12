@@ -1,0 +1,59 @@
+{
+  "Setup": "设置",
+  "computer": "计算机",
+  "favorite": "最喜欢",
+  
+  "Connecting": "正在连接",
+  "Disconnect": "未连接",
+  "Reconnect": "重新连接",
+
+  "Locked": "已上锁",
+  "Unlocked": "已解锁",
+
+  "LowPowerNotice": "设备电量低，请及时充电",
+
+  "KnifeState": "刀头状态",
+  "KnifeStateDesc": "不锋利会降低剃须体验",
+  "KnifeStateTips": "当⼑头剩余时⻓耗尽，剃须效果会随之下下降，建议及时更换⼑头。",
+
+  "KnifeClean": "刀头清洗",
+  "KnifeCleanDesc": "已经累积使用",
+  "KnifeCleanDescMin": "分钟未清洗",
+  "KnifeNormal": "正常",
+  "KnifeNeedClean": "请尽快清洗",
+
+  "ModeTitle": "模式选择",
+  "HighSpeed": "高速",
+  "HighSpeedTipsTitle": "转速 3500转/分",
+  "HighSpeedTipsDesc": "适用胡须粗硬浓密的用户，也适胡须柔软稀少的用户",
+  "LowNormalSpeed": "舒适",
+  "LowNormalSpeedTipsTitle": "转速 3200转/分",
+  "LowNormalSpeedTipsDesc": "适用胡须粗硬浓密的用户，也适胡须柔软稀少的用户",
+  "LowSlightSpeed": "敏感",
+  "LowSlightSpeedTipsTitle": "转速 2900转/分",
+  "LowSlightSpeedTipsDesc": "适用胡须粗硬浓密的用户，也适胡须柔软稀少的用户",
+  "ResetKnife": "重置时间",
+  "GoBuy": "去购买",
+  "ResetKnifeTips": "重置后，刀头剩余时间将重新计算，请确认您已更换刀头，是否重置？",
+  "Ok": "确定",
+  "Cancel": "取消",
+  "Resetting": "正在重置时间…",
+
+  "HOta": "固件更新",
+  "NewVersion": "发现新版本",
+  "UpdateNow": "立即更新",
+  "UpdateLater": "稍后更新",
+
+  "Wiki": "产品百科",
+  "WikiDesc": "控制智能设备，感受品质互联生活",
+  "Aftersale": "售后服务",
+  "Servicevender":"由宁波小适电器有限公司提供服务",
+
+  "DeviceName":"设备名称",
+  "RoomName":"所属空间",
+  "DeviceInfo":"设备信息",
+  "DeleteDevice":"删除设备",
+  "Shortcut":"快捷方式",
+  
+  "":""
+}

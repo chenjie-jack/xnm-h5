@@ -1,0 +1,48 @@
+:root {
+  /* 色彩 */
+  --xnm-theme-main: rgba(0,0,0,1);/* 背景色（首页、设置页） */
+  --xnm-theme-nav-bg: rgba(0,0,0,1);/* 背景色（导航栏） */
+  --xnm-theme-card-bg: rgba(48,48,48,1);/* 卡片背景色 */
+  --xnm-theme-dialog-bg: rgba(54,54,54,1);/* 弹窗背景+菜单背景色 */
+  --xnm-theme-text-title-color:rgba(255,255,255,1);/* 常规文本标题色 */
+  --xnm-theme-text-content-color:rgba(255,255,255,1);/* 常规文本内容色 */
+  --xnm-theme-text-level1-color: rgba(255,255,255,0.86);/* 一级文本/图标 */
+  --xnm-theme-text-level2-color: rgba(255,255,255,0.6);/* 一级文本/图标 */
+  --xnm-theme-text-level3-color: rgba(255,255,255,0.4);/* 三级文本/图标 */
+  --xnm-theme-text-level4-color: rgba(255,255,255,0.9);/* 四级级文本/图标 */
+
+  --xnm-theme-dividing-line-color: rgba(255,255,255,0.2);/* 列表分割线 */
+  --xnm-theme-noticebar-level1-color: rgba(217,72,56,0.2);/* level1 通知栏背景色 */
+  --xnm-theme-noticebar-level2-color: rgba(217,72,56,0.2);/* level2 通知栏背景色 */
+  --xnm-theme-noticebar-level3-color: rgba(217,72,56,0.2);/* level3 通知栏背景色 */
+
+  --xnm-theme-system-highlight-color:rgba(49, 122, 247, 1);/* 系统高亮色 */
+  --xnm-theme-system-highlight-cyan:rgba(79,180,227,1);/* 系统高亮青色 */
+  --xnm-theme-text-highlight-color-blue:rgba(82, 145, 255, 1);/* 文本蓝色高亮 */
+  --xnm-theme-text-highlight-color-orange:rgba(217,72,56,1);/* 文本橙色高亮 */
+  --xnm-theme-text-highlight-color-green:rgba(91,168,84,1);/* 文本绿色高亮 */
+  --xnm-theme-text-highlight-color-yellow:rgba(219,107,66,1);/* 文本黄色高亮 */
+  --xnm-theme-text-highlight-color-gray:rgba(255,255,255,0.10);/* 文本灰色高亮 */
+
+  --xnm-theme-menu-item-color:rgba(82, 145, 255,0.10);/* 菜单项选中色 */
+  --xnm-theme-dialog-mask-color:rgba(0,0,0,0.4);/* 弹窗口蒙层颜色 */
+
+  --xnm-theme-icon-color:rgba(255, 255, 255, 1);/* 自绘制图标色 */
+  --xnm-theme-button-normal-color:rgba(255,255,255,0.10);/* 按钮常规色 */
+
+  /* 定位 */
+  /* --xnm-theme-statusbar-height:1.5rem;
+  --xnm-theme-navigation-height:3.5rem;
+  --xnm-theme-card-radius:1rem;
+  --xnm-theme-card-margin:0.75rem;
+  --xnm-theme-float-window-radius:0.75rem;
+  --xnm-theme-dialog-content-margin:1.5rem;
+  --xnm-theme-halfcard-space:0.375rem; */
+  --xnm-theme-statusbar-height:2.4rem;
+  --xnm-theme-navigation-height:5.6rem;
+  --xnm-theme-card-radius:1.6rem;
+  --xnm-theme-card-margin:1.2rem;
+  --xnm-theme-float-window-radius:1.2rem;
+  --xnm-theme-dialog-content-margin:2.4rem;
+  --xnm-theme-halfcard-space:0.6rem;
+}

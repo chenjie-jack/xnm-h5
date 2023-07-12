@@ -1,0 +1,59 @@
+{
+  "Setup": "Setup",
+  "computer": "computer",
+  "favorite": "favorite",
+
+  "Connecting": "Connecting",
+  "Disconnect": "Disconnect",
+  "Reconnect": "Reconnect",
+
+  "Locked": "Locked",
+  "Unlocked": "Unlocked",
+
+  "LowPowerNotice": "The device battery is low, please charge it in time",
+
+  "KnifeState": "Knife",
+  "KnifeStateDesc": "Not being sharp detract from the shaving experience",
+  "KnifeStateTips": "When the remaining time of the cutter head is exhausted, the shaving effect will decrease, and it is recommended to replace the cutter head in time.",
+
+  "KnifeClean": "Clean",
+  "KnifeCleanDesc": "It has been used for",
+  "KnifeCleanDescMin": "minutes without cleaning",
+  "KnifeNormal": "Normal",
+  "KnifeNeedClean": "Please clean as soon as possible",
+
+  "ModeTitle": "Mode Select",
+  "HighSpeed": "High",
+  "HighSpeedTipsTitle": "Speed 3500 RPM",
+  "HighSpeedTipsDesc": "Suitable for users with thick, hard and thick whiskers, but also suitable for users with soft and rare whiskers",
+  "LowNormalSpeed": "Comfort",
+  "LowNormalSpeedTipsTitle": "Speed 3200 RPM",
+  "LowNormalSpeedTipsDesc": "Suitable for users with thick, hard and thick whiskers, but also suitable for users with soft and rare whiskers",
+  "LowSlightSpeed": "Sensitive",
+  "LowSlightSpeedTipsTitle": "Speed 2900 RPM",
+  "LowSlightSpeedTipsDesc": "Suitable for users with thick, hard and thick whiskers, but also suitable for users with soft and rare whiskers",
+  "ResetKnife": "Reset",
+  "GoBuy": "Buy",
+  "ResetKnifeTips": "After reset, the remaining time of the tool head will be recalculated. Please confirm that you have replaced the tool head. Do you want to reset it?",
+  "Ok": "Ok",
+  "Cancel": "Cancel",
+  "Resetting": "Resetting…",
+
+  "HOta": "Ota",
+  "NewVersion": "New Version",
+  "UpdateNow": "Update Now",
+  "UpdateLater": "Update Later",
+
+  "Wiki": "Product encyclopedia",
+  "WikiDesc": "Control smart devices, feel the quality of connected life",
+  "Aftersale": "After Sale Service",
+  "Servicevender":"Service by Ningbo Showsee Electric Co., LTD",
+  
+  "DeviceName":"Device Name",
+  "RoomName":"Owning Space",
+  "DeviceInfo":"Device Infomation",
+  "DeleteDevice":"Delete Device",
+  "Shortcut":"Shortcut",
+
+  "":""
+}

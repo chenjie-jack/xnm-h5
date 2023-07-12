@@ -1,0 +1,9 @@
+:root {
+  // 荣耀 暗色主题
+  --honor-theme-dark-common-bg-nav: #010101;
+  --honor-theme-dark-common-bg-main: #010101;
+  --honor-theme-dark-common-bg-card: #404040;
+  --honor-theme-dark-common-title-text-color: #e6e3e5;
+  --honor-theme-dark-common-text-color: #e6e3e5;
+  --honor-theme-dark-common-icon-unselect-bg: #535353;
+}

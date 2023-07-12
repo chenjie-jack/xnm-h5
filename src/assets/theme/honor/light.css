@@ -1,0 +1,9 @@
+:root {
+  // 荣耀 亮色主题
+  --honor-theme-light-common-bg-nav: #f8f8f8;
+  --honor-theme-light-common-bg-main: #f2f3f6;
+  --honor-theme-light-common-bg-card: #ffffff;
+  --honor-theme-light-common-title-text-color: #000000;
+  --honor-theme-light-common-text-color: #000000;
+  --honor-theme-light-common-icon-unselect-bg: #f2f2f2;
+}
